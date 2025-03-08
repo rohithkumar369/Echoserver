@@ -59,10 +59,11 @@ print("Server closed.")
 ```
 
 ## CLIENT OUTPUT:
-![Screenshot 2024-09-04 194553](https://github.com/user-attachments/assets/67e125bf-9164-4a6f-8aa8-2b015915b09d)
-
+![Screenshot (85)](https://github.com/user-attachments/assets/9e15733c-54cf-4382-8fb6-cb78a474525e)
 ## SERVER OUTPUT:
-![Screenshot 2024-09-04 194600](https://github.com/user-attachments/assets/503fa554-6ec1-4fc3-af23-9dd5426905eb)
+
+![Screenshot (84)](https://github.com/user-attachments/assets/af95d051-8e34-4f02-a0fd-f5c9f0ada1ed)
+
 
 
 ## RESULT:
